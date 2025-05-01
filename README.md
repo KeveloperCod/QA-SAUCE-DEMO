@@ -84,10 +84,3 @@ Copiar
 Editar
 /reports/report.html
 Puedes abrir este archivo en tu navegador para visualizar los resultados.
-
-<<<<<<< HEAD
-Puedes abrir este archivo en tu navegador para ver los resultados de los tests.
-=======
-##  Autor
-Proyecto desarrollado por KeveloperCod
->>>>>>> f7b0717 (Actualización del README)
