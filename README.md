@@ -1,4 +1,5 @@
 # QA-SAUCE-DEMO
+```bash
 
 ## Proyecto de Automatización QA FrontEnd con Playwright y Cucumber
 
