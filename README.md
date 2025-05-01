@@ -24,19 +24,25 @@ Crear un conjunto de pruebas que validen la experiencia de compra de un usuario 
 
 ##  Estructura del Proyecto
 
-QA-SAUCE-DEMO/ ├── features/ # Archivos .feature en Gherkin ├── pages/ # Page Object Model ├── steps/ # Step Definitions de Cucumber ├── reports/ # Reportes HTML generados ├── screenshots/ # Capturas automáticas si falla un escenario ├── cucumber.mjs # Configuración de Cucumber ├── tsconfig.json # Configuración de TypeScript ├── playwright.config.ts # Configuración de Playwright ├── README.md └── .gitignore
-
-yaml
-Copiar
-Editar
-
----
+QA-SAUCE-DEMO/ 
+├── features/ # Archivos .feature en Gherkin 
+├── pages/ # Page Object Model 
+├── steps/ # Step Definitions de Cucumber 
+├── reports/ # Reportes HTML generados 
+├── screenshots/ # Capturas automáticas si falla un escenario 
+├── cucumber.mjs # Configuración de Cucumber 
+├── tsconfig.json # Configuración de TypeScript 
+├── playwright.config.ts # Configuración de Playwright 
+├── README.md
 
 ##  Instalación y Ejecución
 
 1. Clona el repositorio:
 
+<<<<<<< HEAD
 ```bash
+=======
+>>>>>>> 456e3c4 (Update rbs)
 git clone https://github.com/KeveloperCod/QA-SAUCE-DEMO.git
 cd QA-SAUCE-DEMO
 
