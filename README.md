@@ -39,7 +39,6 @@ QA-SAUCE-DEMO/
 
 1. Clona el repositorio:
 
-<<<<<<< HEAD
 ```bash
 =======
 >>>>>>> 456e3c4 (Update rbs)
