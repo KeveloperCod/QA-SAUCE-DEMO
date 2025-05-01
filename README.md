@@ -38,7 +38,7 @@ QA-SAUCE-DEMO/
 
 1. Clona el repositorio
 
-git clone <URL_DEL_REPOSITORIO>
+git clone <[URL_DEL_REPOSITORIO](https://github.com/KeveloperCod/QA-SAUCE-DEMO.git)>
 cd QA-SAUCE-DEMO
 
 2. Instala las dependencias
