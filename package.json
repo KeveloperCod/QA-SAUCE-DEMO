@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.1.0",
+    "@playwright/test": "^1.42.1", 
+    "@types/node": "^20.11.0",
+    "playwright": "^1.42.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+ "scripts": {
+  "test": "cucumber-js --require-module ts-node/register --require steps/**/*.ts --config cucumber.mjs",
+  "test:valid": "npm run test -- --tags @validLogin",
+  "test:invalid": "npm run test -- --tags @invalidLogin",
+  "test:addcart": "npm run test -- --tags @addCart",
+  "test:viewcart": "npm run test -- --tags @viewAddCart",
+  "test:checkout": "npm run test -- --tags @checkoutPage"
+  }
+}
