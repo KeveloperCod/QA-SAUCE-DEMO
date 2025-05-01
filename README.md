@@ -36,18 +36,16 @@ Editar
 
 1. Clona el repositorio:
 
-<<<<<<< HEAD
-=======
 ```bash
->>>>>>> f7b0717 (Actualización del README)
 git clone https://github.com/KeveloperCod/QA-SAUCE-DEMO.git
 cd QA-SAUCE-DEMO
-Instala las dependencias:
 
+Instala las dependencias:
 bash
 Copiar
 Editar
 npm install
+
 Ejecutar todos los tests:
 
 bash
