@@ -41,7 +41,6 @@ QA-SAUCE-DEMO/
 
 ```bash
 =======
->>>>>>> 456e3c4 (Update rbs)
 git clone https://github.com/KeveloperCod/QA-SAUCE-DEMO.git
 cd QA-SAUCE-DEMO
 
