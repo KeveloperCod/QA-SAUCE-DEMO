@@ -25,7 +25,7 @@ Given('el usuario está en la página de inicio de sesión',
 
 Then('debería ver la página de productos', async function (this: CustomWorld) {
   await this.page.waitForURL('**/inventory.html', { timeout: 15000 });
-  console.log('✅ Login exitoso - URL actual:', this.page.url());
+  console.log('Login exitoso - URL actual:', this.page.url());
 });
 
 
